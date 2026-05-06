@@ -6,3 +6,11 @@ body{
 #imagem-brasil{
     width: 50px;
 }
+
+.item{
+    font-size: 20px;
+}
+
+p{
+    font-size: 18px;
+}
